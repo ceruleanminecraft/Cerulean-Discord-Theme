@@ -1,0 +1,20 @@
+/**
+  * @name Neptune
+  * @author DevEvil#8745
+  * @version 1.0
+  * @description A dark, blue and customizable theme
+  * @authorId 468132563714703390
+  * @authorLink https://devevil.xyz
+  * @source https://github.com/DevEvil99/Neptune-Discord-Theme
+  * @website https://devevil.xyz
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://github.com/DevEvil99/devevil/blob/main/BetterDiscordAddons/Theme/Neptune/Neptune.theme.css');
+
+:root {
+	--neptune-main-bg: #1a2035;
+	--neptune-main-color: #3254c4;
+	--neptune-sec-color: #5b7ef1;
+	--neptune-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/934118888071909406/home-icon.jpg);
+}
