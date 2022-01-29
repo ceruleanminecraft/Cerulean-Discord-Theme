@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/73029696/151663137-d00047e6-e937-41f6-8b21-8d2131211ce9.png)
+![image2](https://cdn.discordapp.com/attachments/468141324906921984/936979647202218084/Untitled.png)
 # Neptune
 **A dark, blue and customizable theme**
 # User customization
